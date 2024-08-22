@@ -1,7 +1,7 @@
 # home-finds-you
 
 To install the application.
-Clone this repo and install the requirements in requirements.txt including the virtual environment(Venv)
+Clone this repo and install the requirements in requirements.txt in a virtual environment(Venv)
 
 Ensure you are running python on your device.
 
